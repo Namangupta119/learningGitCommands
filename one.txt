@@ -1,2 +1,3 @@
 i am in the three folder and writing different content for pushing it in the repo
 add another file in the same file in which we were working
+add new file in the same file in the one file
